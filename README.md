@@ -39,6 +39,7 @@ java -jar <jarname>
 - I vaguely remember I was trying to copy Growtopia's chat system.
 - At that time I was using the Eclipse IDE.
 - I definitely code better than this now. I think.
+- Where it all started: <https://www.youtube.com/watch?v=Hl-zzrqQoSE>
 
 ## Screenshots
 
